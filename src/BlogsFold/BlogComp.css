@@ -1,0 +1,58 @@
+.tabs{
+    font-size: 1.1rem;
+    
+}
+
+.border-Btom{
+    margin-top: -.3rem;
+    background-color: black;
+    height: .1rem;
+}
+
+.theCard{
+    top: 4rem;
+    transform: scale(1);
+}
+
+.imgcont{
+    position: relative;
+}
+
+.disCrep{
+    background-color: #60616282;
+    color: aliceblue;
+    bottom: 0;
+    position: absolute;
+}
+
+.theBlogImg{
+    height: 30rem;
+}
+
+
+.imagSRc{
+    height: 20rem;
+}
+
+.theCont p{
+font-size: 1rem;
+}
+
+
+.loader{
+    font-size: 1.2rem;
+}
+.thescrol::-webkit-scrollbar{
+    display: none;
+}
+
+@media (max-width : 991px) {
+    .tabs{
+        text-align: center;
+        width: 7rem;
+    }
+
+    #last{
+        width: 15rem;
+    }
+}

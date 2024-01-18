@@ -1,0 +1,21 @@
+.hero{
+    height: 20rem;
+}
+
+.theSubscribFrom{
+    overflow: hidden;
+    width: 50%;
+    height: 2.5rem;
+    border: 1px solid rgba(0, 0, 0, 0.452);
+}
+
+.textInput{
+    width: 63.5%;
+    outline: none;
+    font-size: 1rem;
+    padding-left: 1rem ;
+}
+
+.thisPrera{
+    font-size: 1.4rem;
+}

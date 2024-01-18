@@ -1,0 +1,22 @@
+.LoginRegistrationForm{
+    width: 30%;
+}
+
+.inputText{
+    margin-top: 1rem;
+    font-size: 1rem;
+    outline: none;
+    padding: .7rem;
+    background: #bebcbc;
+    border: none;
+    color: black !important;
+    padding-left: 1rem;
+}
+
+.inputText::placeholder{
+    color: black !important;
+}
+
+.theCreateList{
+    font-size: 1rem;
+}

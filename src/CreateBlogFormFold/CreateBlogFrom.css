@@ -1,0 +1,41 @@
+.createBlogForm{
+    width: 50%;
+}
+.theHEading{
+    font-size: 1.3rem;
+}
+
+input{
+    border: 1px solid black !important;
+}
+
+.createBlogForm .title{
+    font-size: 1.5rem;
+}
+
+.createBlogForm .title span{
+    color: red;
+}
+
+.createBlogForm input{
+    margin-top: 1rem;
+    font-size: 1rem;
+    padding: .4rem .5rem;
+    outline: none;
+}
+
+.createBlogForm .brd{
+    border: .1px solid black;
+}
+
+.theDescriptionBox{
+    height: 30rem;
+}
+
+/*996/*/
+
+@media (max-width: 996px) {
+    .createBlogForm{
+        width: 100%;
+    }
+}
